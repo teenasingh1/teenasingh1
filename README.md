@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Teena Singh
-- 👀 I’m interested in Data Structure. 
+- 👀 I’m interested in Data Structures and Algorithms. 
 - 🌱 I’m currently learning C++.
 - 💞️ I’m looking to collaborate on Web Development.
 - 📫 Reach me at teenasingh256@gmail.com
